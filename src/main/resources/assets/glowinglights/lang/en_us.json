@@ -1,0 +1,12 @@
+{
+  "block.glowinglights.glowing_white": "Glowing White",
+  "block.glowinglights.glowing_red": "Glowing Red",
+  "block.glowinglights.glowing_light_green": "Glowing Light Green",
+  "block.glowinglights.glowing_blue": "Glowing Blue",
+  "block.glowinglights.glowing_cyan": "Glowing Cyan",
+  "block.glowinglights.glowing_dark_green": "Glowing Dark Green",
+  "block.glowinglights.glowing_magenta": "Glowing Magenta",
+  "block.glowinglights.glowing_yellow": "Glowing Yellow",
+
+  "item.glowinglights.color_changer": "Color Changer"
+}
